@@ -15,7 +15,7 @@
 {
 	width: 50%;
 	color: black;
-	font-size: 33px;
+	font-size: 43px;
 	margin: 1rem;
 	font-weight: bolder;
 }
@@ -23,7 +23,7 @@
 {
 	color: grey;
 	color: black;
-	font-size: 15px;
+	font-size: 18px;
 	text-align: left;
 	width: 170px;
 }
@@ -82,7 +82,7 @@
 
 .pos__btn
 {
-	height: 40px;
+	height: 50px;
 	width: 150px;
 	background-color: #F8437C;
 	border-color: transparent;
